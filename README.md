@@ -1,5 +1,5 @@
 # FlyOut Menu with Xamarin.Forms
- Simple example of how to make a flyout menu with Xamarin.Forms.
+ Simple example of how to make a flyout menu with Xamarin.Forms. No plugin was used to make this menu.
  
  # Requirements
 <ul>
